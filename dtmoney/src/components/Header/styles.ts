@@ -9,7 +9,7 @@ export const Content = styled.div`
     margin: 0 auto;
     padding: 2rem 1rem 12rem;
     display: flex;
-    align-items: center;
+   align-items: center;
     justify-content: space-between;
 
     button {
@@ -22,7 +22,7 @@ export const Content = styled.div`
         height: 3rem;
         transition: filter 0.2s;
 
-        &:hover{
+        &:hover {
             filter: brightness(0.9);
         }
     }

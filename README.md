@@ -45,11 +45,13 @@ cd reactChapterTwo\dtmoney
 
 # To open the project.
 code .
-
+```
+```
 # with yarn
 yarn install
 yarn start
-
+```
+```
 # With the npm
 npm install
 npm start

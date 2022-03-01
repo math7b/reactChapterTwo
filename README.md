@@ -38,6 +38,7 @@ To start you need the `npm` how came with the node.js or the `yarn`, and you nee
 
 ### Instalation
 ```
+# To install the project.
 git clone https://github.com/math7b/reactChapterTwo.git
 
 # To go to the project folder.
@@ -47,12 +48,12 @@ cd reactChapterTwo\dtmoney
 code .
 ```
 ```
-# with yarn
+# with yarn.
 yarn install
 yarn start
 ```
 ```
-# With the npm
+# With npm.
 npm install
 npm start
 ```

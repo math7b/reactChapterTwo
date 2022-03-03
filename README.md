@@ -1,6 +1,6 @@
 <img src="https://github.com/math7b/reactChapterTwo/blob/main/example.png">
 
-## DTMoney
+## dt money
 <img src="https://github.com/math7b/reactChapterTwo/blob/main/dtmoney/public/favicon.png">
 
 <br>
